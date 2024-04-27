@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadFirstDesignPatterns", "HeadFirstDesignPatterns\HeadFirstDesignPatterns.csproj", "{5819B5EB-6E22-46F0-9A97-7B8D78561790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadFirstDesignPatterns.Tests", "HeadFirstDesignPatterns.Tests\HeadFirstDesignPatterns.Tests.csproj", "{DABBB1F6-BF0B-4CD1-88B5-9DAF3610ED9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5819B5EB-6E22-46F0-9A97-7B8D78561790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5819B5EB-6E22-46F0-9A97-7B8D78561790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5819B5EB-6E22-46F0-9A97-7B8D78561790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5819B5EB-6E22-46F0-9A97-7B8D78561790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABBB1F6-BF0B-4CD1-88B5-9DAF3610ED9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABBB1F6-BF0B-4CD1-88B5-9DAF3610ED9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABBB1F6-BF0B-4CD1-88B5-9DAF3610ED9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABBB1F6-BF0B-4CD1-88B5-9DAF3610ED9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
